@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "algorithm": "cpp",
+        "random": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "*.tcc": "cpp",
+        "utility": "cpp",
+        "__locale": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "chrono": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "iosfwd": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

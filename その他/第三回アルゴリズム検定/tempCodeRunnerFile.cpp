@@ -1,0 +1,2 @@
+ mini = sushi[i];
+            

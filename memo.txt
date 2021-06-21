@@ -1,0 +1,19 @@
+●　next_permutation
+
+順列を昇順に返してくれるメソッド
+例えば　a = {3,2,5,1,4}という配列があったとすると
+
+next_permutation(a.begin(), a.end())
+をdo〜while文で回すと
+
+{1,2,3,4,5} {1,2,3,5,4} {1,2,4.3.5}.....{5,4,3,1,2} {5,4,3,2,1}　false
+
+と辞書順にソートしたものを返してくれる。最後はfalse。
+
+*prev_permutaionは逆
+
+●　ライブラリ
+https://github.com/atcoder-live/library
+
+●　テストケース
+https://www.dropbox.com/sh/arnpe0ef5wds8cv/AAAk_SECQ2Nc6SVGii3rHX6Fa?dl=0

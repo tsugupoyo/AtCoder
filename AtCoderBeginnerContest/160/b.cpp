@@ -1,0 +1,15 @@
+#include <bits/stdc++.h>
+using namespace std;
+using ll=long long;
+#define rep(i,n) for(int i=0;i<(int)(n);i++)
+
+int main()
+{
+    int num;
+    cin >> num;
+
+    int ret =   (num / 500) *1000;
+    ret += (num % 500) /5 *5;
+
+    cout << ret << endl;
+}
